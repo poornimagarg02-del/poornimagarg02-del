@@ -32,6 +32,16 @@ AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
 
 ---
 
+## 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=database)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+--- 
+
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/poornimagarg02-del

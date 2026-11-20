@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**poornimagarg02-del/poornimagarg02-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Poornima Garg 👋
 
-Here are some ideas to get you started:
+### 🎓 AI & Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech Artificial Intelligence & Data Science student passionate about building real-world AI solutions.
+
+- 🔭 Currently working on **FloodMinds AI**
+- 🌱 Learning Python, Machine Learning, SQL and Data Structures
+- 💡 Interested in Artificial Intelligence & Data Science
+- 📊 Exploring Data Analytics and Problem Solving
+- 🎯 Aspiring AI/ML Engineer
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python, C
+- **Database:** SQL
+- **Core Areas:** Machine Learning, Data Science, Data Analytics
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Featured Project
+
+**FloodMinds AI**
+
+An AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/poornimagarg02-del

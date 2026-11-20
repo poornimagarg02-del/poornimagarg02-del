@@ -21,12 +21,14 @@ I'm a B.Tech Artificial Intelligence & Data Science student passionate about bui
 - **Tools:** Git, GitHub, VS Code
 
 ---
+## 🚀 Featured Projects
 
-### 🚀 Featured Project
+### 🌊 FloodMinds AI
+AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
 
-**FloodMinds AI**
+**Technologies:** Python | Machine Learning | FastAPI | GIS
 
-An AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
+[View Project on GitHub](https://github.com/poornimagarg02-del/FloodMinds-AI-2026)
 
 ---
 

@@ -40,7 +40,22 @@ AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
---- 
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poornimagarg02-del&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poornimagarg02-del&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=poornimagarg02-del&theme=tokyonight)
+
+---
 
 ### 📫 Connect With Me
 

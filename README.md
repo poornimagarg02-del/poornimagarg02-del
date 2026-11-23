@@ -9,6 +9,7 @@ I'm a B.Tech Artificial Intelligence & Data Science student passionate about bui
 - 🌱 Learning Python, Machine Learning, SQL and Data Structures
 - 💡 Interested in Artificial Intelligence & Data Science
 - 📊 Exploring Data Analytics and Problem Solving
+- 💻 Improving problem-solving and development skills
 - 🎯 Aspiring AI/ML Engineer
 
 ---
@@ -24,21 +25,41 @@ I'm a B.Tech Artificial Intelligence & Data Science student passionate about bui
 ## 🚀 Featured Projects
 
 ### 🌊 FloodMinds AI
-AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
+**AI-Based Flash Flood Prediction and Early Warning System for Hilly Regions**
 
-**Technologies:** Python | Machine Learning | FastAPI | GIS
+An AI and Data Science based project focused on flash flood risk monitoring and early warning using multi-source environmental data.
 
-[View Project on GitHub](https://github.com/poornimagarg02-del/FloodMinds-AI-2026)
+**Project Modules:**
+- Rainfall Data Collection
+- Weather Data Processing
+- River Discharge Analysis
+- Flood Risk Prediction
+- GIS-Based Monitoring
+- Risk Analysis and Early Warning
+
+**Technologies:** Python | FastAPI | React | JavaScript | Pandas | Machine Learning
+
+🔗 [View FloodMinds AI Repository](https://github.com/poornimagarg02-del/FloodMinds-AI-2026)
+
 
 ---
 
-## 💻 Languages & Tools
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![SQL](https://img.shields.io/badge/SQL-orange?logo=database)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+### AI & Data Science
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4479A1?style=for-the-badge)
+
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
@@ -56,6 +77,13 @@ AI-powered Flash Flood Prediction and Early Warning System for Hilly Regions.
 ![GitHub Streak](https://streak-stats.demolab.com?user=poornimagarg02-del&theme=tokyonight)
 
 ---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=poornimagarg02-del&theme=tokyo-night)
+
+---
+
 
 ### 📫 Connect With Me
 

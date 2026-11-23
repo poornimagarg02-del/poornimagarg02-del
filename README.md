@@ -14,14 +14,7 @@ I'm a B.Tech Artificial Intelligence & Data Science student passionate about bui
 
 ---
 
-### 🛠️ Technical Skills
 
-- **Languages:** Python, C
-- **Database:** SQL
-- **Core Areas:** Machine Learning, Data Science, Data Analytics
-- **Tools:** Git, GitHub, VS Code
-
----
 ## 🚀 Featured Projects
 
 ### 🌊 FloodMinds AI
@@ -44,6 +37,7 @@ An AI and Data Science based project focused on flash flood risk monitoring and 
 
 ---
 
+### 🛠️ Technical Skills
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
